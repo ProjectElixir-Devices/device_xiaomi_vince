@@ -7,7 +7,12 @@ LOCAL_MODULE_TAGS := optional
 LOCAL_OVERRIDES_PACKAGES := \
           arcore \
           AmbientSensePrebuilt \
+	  AndroidAutoStubPrebuilt \
           AppDirectedSMSService \
+	  CalculatorGooglePrebuilt \
+	  CalendarGooglePrebuilt \
+	  Chrome \
+	  Chrome-Stub \
           ConnMO \
           CalendarGooglePrebuilt \
           Drive \
